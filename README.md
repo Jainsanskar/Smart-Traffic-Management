@@ -126,4 +126,4 @@ Vehicles per second: 1.03
 ## 🙋‍♂️ Author
 
 **Sanskar Jain**  
-📧 [@example.com](mailto:sanskarjain3112@gmail.com)  
+📧 [sanskarjain3112@gmail.com](mailto:sanskarjain3112@gmail.com)  
